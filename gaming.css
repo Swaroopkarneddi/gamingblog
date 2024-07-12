@@ -1,0 +1,217 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.navbar-logo {
+    height: 40px;
+    width: 60px;
+    /* margin: 10px; */
+}
+
+#nav-items-color {
+    /* color: #323f4b; */
+    color: #faf7e8;
+    font-family: "Roboto";
+}
+
+.bgimagebannersection {
+    /* background-image: url("https://cdn-www.bluestacks.com/bs-images/Banner_RDR2-Companion.jpg"); */
+    background-image: url("https://i0.wp.com/www.portaldonerd.com.br/wp-content/uploads/2018/11/red-dead-redemption-2-hero-banner-03-ps4-us-07jun18.jpg");
+    height: 100vh;
+    background-size: cover;
+}
+
+.headingbannersection {
+    color: white;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.buttonbannersection {
+    /* background-color: #1a2137; */
+    background-color: black;
+    border-radius: 8px;
+    color: white;
+    font-family: "Roboto";
+    height: 40px;
+    width: 20vh;
+}
+
+.VR-Features-Section {
+    /* background-color: white; */
+    background-color: rgba(0, 0, 0, 0.895);
+}
+
+.heading-Features-Section {
+    margin-top: 40px;
+    font-family: "Roboto";
+    font-size: 28px;
+    /* color: #1f2933; */
+    color: #faf7e8;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.VR-card {
+    /* background-color: rgba(255, 255, 255, 0.514); */
+    border-radius: 16px;
+    text-align: center;
+    padding: 1px;
+    margin: 10px;
+    /* border-style: solid; */
+    /* border-width: 1px;
+    border-color: #e5eaf4; */
+}
+
+.image-vr-card {
+    height: 250px;
+    width: auto;
+    border-radius: 16px;
+}
+
+.heading-vr-card {
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 22px;
+    color: #1f2933;
+}
+
+.paragraph-vr-card {
+    font-family: "Roboto";
+    font-size: 16px;
+    color: #7b8794;
+}
+
+.span-interaction {
+    font-style: italic;
+    font-weight: bold;
+    color: #323f4b;
+}
+
+.VR-kit-section {
+    background-color: rgba(0, 0, 0, 0.895);
+    padding: 10px;
+}
+
+.mainheading-kit-section {
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 28px;
+    color: #faf7e8;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.image-kit-section {
+    border-radius: 16px;
+    width: 290px;
+    height: 304px;
+}
+
+.heading-kit-section {
+    color: black;
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 18px;
+    margin-top: 24px;
+    font-weight: bold;
+}
+
+.center-kit-item {
+    text-align: center;
+}
+
+.kit-item {
+    color: brown;
+}
+
+.trending-blogs-section-heading {
+    color: #faf7e8;
+    font-family: "Roboto";
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.trending-blogs-card-title {
+    color: #959ead;
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.trending-blogs-card-description {
+    /* color: #323f4b; */
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.trending-blogs-card-link {
+    color: #1754a1;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.trending-blogs-card-button {
+    color: white;
+    background-color: #1754a1;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+    width: 175px;
+    height: 56px;
+    border-width: 0;
+    border-radius: 10px;
+}
+
+/* .follow-us-section {
+    background-color: white;
+} */
+
+/* .follow-us-section-heading {
+    text-align: center;
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+} */
+
+/* .follow-us-icon-container {
+    background-color: #faf7e8;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin: 15px;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 22px;
+} */
+
+.icon {
+    color: #d0b200;
+    font-size: 35px;
+}
+
+body {
+    background-color: #f8f9fa;
+}
+
+.footer {
+    background-color: #343a40;
+    color: #f8f9fa;
+    padding: 40px 0;
+}
+
+.social-links {
+    margin-top: 20px;
+}
+
+.social-icon {
+    display: inline-block;
+    margin: 0px 10px;
+    transition: transform 0.3s ease-in-out;
+}
+
+.social-icon:hover {
+    transform: scale(1.2);
+}
